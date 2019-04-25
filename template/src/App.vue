@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    this is laiq-cli
     {{#router}}
     <router-view/>
     {{else}}
